@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything that intrigues me. 
 - 🌱 I’m currently learning coding.
 - 💞️ I’m looking to collaborate on projects and more of coding.
-- 📫 How to reach me ........
+- 📫 How to reach me : [linkedin Profile](www.linkedin.com/in/vendra-sekar-03079221a)
 
 <!---
 PurpleVen/PurpleVen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
