@@ -11,7 +11,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleVen&layout=Demo&theme=synthwave)](https://github.com/PurpleVen/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=PurpleVen&color=f222ff&label=PROFILE+VIEWS)
+<!--![](https://komarev.com/ghpvc/?username=PurpleVen&color=f222ff&label=PROFILE+VIEWS)-->
 
 
 
