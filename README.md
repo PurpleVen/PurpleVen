@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PurpleVen
 - 👀 I’m interested in anything that intrigues me. 
 - 🌱 I’m currently learning coding.
-- 💞️ I’m looking to collaborate on projects and more of coding.
+- 💞️ I’m looking forward to collaborate on projects and more of coding.
 - 📫 How to reach me : vendra0408@gmail.com
 
 
