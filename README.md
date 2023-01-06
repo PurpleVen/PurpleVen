@@ -14,7 +14,9 @@
 
 <!--![](https://komarev.com/ghpvc/?username=PurpleVen&color=f222ff&label=PROFILE+VIEWS)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleVen&layout=compact&theme=synthwave)](https://github.com/PurpleVen/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleVen&layout=compact&theme=synthwave)](https://github.com/PurpleVen/github-readme-stats) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PurpleVen&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 PurpleVen/PurpleVen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
