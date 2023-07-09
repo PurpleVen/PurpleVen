@@ -68,7 +68,7 @@
 
 ###
 
-<h3 align="left">🔥   Stats :</h3>
+<h3 align="left">🔥   Stats </h3>
 
 ###
 
